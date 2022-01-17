@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>topic_transcriber</name>
+  <version>0.0.0</version>
+  <description>The topic_transcriber package</description>
+
+  <maintainer email="rmensing@todo.todo">Ronald Ensing</maintainer>
+
+  <license>TODO</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+
+</package>
